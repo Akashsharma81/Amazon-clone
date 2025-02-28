@@ -25,7 +25,8 @@ cd amazon-clone
 npm install
 npm start
 Screenshots
-(Add images of your project UI for better visualization.)
+[Click Here to Visit Imgur](https://i.imgur.com/your-image.png)
+
 Author
 Akash Sharma
 <a>https://github.com/Akashsharma81</a>
